@@ -12,13 +12,13 @@
    
    - What is the difference between a terminal and a shell?
     * Terminal is an environment text/output.
-    * Shell is command line interpreter.
+    * Shell is a command line interpreter.
    
-   - What is shell propmt?
+   - What is shell prompt?
     * The shell prompt (or command line) is where one types commands. 
     
    - How to use the history (the basics)?
-    * history command is used to view the previously executed command. This feature was not available in the Bourne shell.  
+    * History command is used to view the previously executed command. This feature was not available in the Bourne shell.  
 ## Navigation
    * Print working directory `pwd`.
    * Change directory `cd`.
@@ -26,16 +26,15 @@
 
 ## Manipulating Files
    * `cp`: command is used to copy files or directories from one location to another.
-   * `mv`: command is used to rename file or direcotry, but also used to move file or directory to antoher location.
-   * `rm`: command is used to remove file, and by adding `rm -r` you ca n remove non empty directory.
+   * `mv`: command is used to rename files or directories, but also used to move files or directories to another location.
+   * `rm`: command is used to remove files, and by adding `rm -r` you ca n remove a non-empty directory.
 
 ## Working with Commands
-   * `type`: this command will tell you if a command is a built-in shell command, an alias, a function, or an executable file. 
-   * `which`: this command will tell the location of the executable file for a command.
-   * `help`: this command will show you a brief summary of a command's syntax and usage.
-   * `man` : this command will display a full manual page of a command.
+   * `type`: This command will tell you if a command is a built-in shell command, an alias, a function, or an executable file. 
+   * `which`: This command will tell the location of the executable file for a command.
+   * `help`: This command will show you a brief summary of a command's syntax and usage.
+   * `man`: This command will display a full manual page of a command.
      - man page (short for manual page) is a form of software documentation usually found on a Unix or Unix-like operating system. 
 
 
-### Summary 
-  - soon
+ 
